@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "68239313725",
+    "firebase_url": "https://gssja-558e9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gssja-558e9",
+    "storage_bucket": "gssja-558e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68239313725:android:b271f041f61b8a2ae71354",
+        "android_client_info": {
+          "package_name": "com.example.samokat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf3COwW-ufEJHIgwNj9iAfi7QehxPFjC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
